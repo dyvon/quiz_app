@@ -1,0 +1,14 @@
+header{
+    overflow: auto;
+    background-color:#ffff99;
+}
+#quiz_title {
+    text-align: center;
+}
+#quiz_author{
+    text-align: center;
+}
+#confirm_text{
+    text-align: center;
+    background-color:#99ffcc ;
+}
